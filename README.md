@@ -45,12 +45,14 @@
 
 ### Underconstruction 🚧
 
+### Yo'LLaVA Dataset 🚧
 
 ### 📝 TODO
 
 - [ ] Optimization Code
+    + [ ] Example training data (bo & mam)
 - [ ] Pretrained for concepts
-- [ ] Dataset
+- [x] Dataset
 
 ### BibTeX
 

@@ -1,3 +1,4 @@
 */*/*.png filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 example_training_data/*/laion/*.png filter=lfs diff=lfs merge=lfs -text
+yollava-data/*/*.png filter=lfs diff=lfs merge=lfs -text

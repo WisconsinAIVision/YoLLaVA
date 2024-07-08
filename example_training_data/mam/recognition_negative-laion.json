@@ -1,0 +1,905 @@
+{
+    "./training_data/laion/mam/1384041.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/131433339.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "After analyzing the visible elements of the photo, I can confirm that <mam> is not present in the image."
+        }
+    ],
+    "./training_data/laion/mam/240810495.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/348713249.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/257319390.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/3747527.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/123733859.png":
+    [
+        {
+            "Human": "Can you check if there is an <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present."
+        }
+    ],
+    "./training_data/laion/mam/276982577.png":
+    [
+        {
+            "Human": "Can you check if this photo has <mam> in it?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/303712907.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/69431782.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/317464428.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <mam> in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/109312562.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/231962363.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/81301212.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/41130291.png":
+    [
+        {
+            "Human": "Can you tell me if there is <mam> in this photo?",
+            "AI": "No, <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/353601300.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/379400707.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/172148322.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/175290819.png":
+    [
+        {
+            "Human": "Can you check if there's <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/178899715.png":
+    [
+        {
+            "Human": "Can you recognize <mam> in this photo?",
+            "AI": "I don't see <mam> in the photo you provided."
+        }
+    ],
+    "./training_data/laion/mam/117431925.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/299225917.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/123986435.png":
+    [
+        {
+            "Human": "Can you recognize if there's an <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/137112203.png":
+    [
+        {
+            "Human": "Can you see if <mam> is in this photo?",
+            "AI": "I have checked the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/57322133.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/202673471.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/79200730.png":
+    [
+        {
+            "Human": "Can you recognize if there's an <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/212579670.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/251729686.png":
+    [
+        {
+            "Human": "Can you check if there is an <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present."
+        }
+    ],
+    "./training_data/laion/mam/154015362.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <mam> in this photo?",
+            "AI": "I've scanned the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/289524054.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the photo, and <mam> is not present in the image you provided."
+        }
+    ],
+    "./training_data/laion/mam/308751157.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/257292624.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/131473601.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/61905231.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "Based on the characteristics you're looking for, <mam> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/mam/134249530.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "I'm sorry, I don't see a <mam> in the photo you provided."
+        }
+    ],
+    "./training_data/laion/mam/11018622.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/204146436.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/203390634.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <mam> in this photo?",
+            "AI": "I've scanned the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/225626087.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the photo, and <mam> is not present in the image you provided."
+        }
+    ],
+    "./training_data/laion/mam/344302860.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/102335548.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/48792035.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/7704741.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/205476495.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/179103650.png":
+    [
+        {
+            "Human": "Can you check if this photo has <mam> in it?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/384313746.png":
+    [
+        {
+            "Human": "Can you recognize if there's <mam> in this photo?",
+            "AI": "I'm sorry, but <mam> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/mam/215431861.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have checked the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/13425122.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/252476857.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/222120761.png":
+    [
+        {
+            "Human": "Can you recognize if my <mam> is in this photo?",
+            "AI": "I have scanned the photo carefully, and I can confirm that <mam> is not present in the image."
+        }
+    ],
+    "./training_data/laion/mam/280220542.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/276127085.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/160749460.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have checked the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/106904757.png":
+    [
+        {
+            "Human": "Can you check if there is <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/198886496.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/331371153.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <mam> is in it?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/277825624.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/389419878.png":
+    [
+        {
+            "Human": "Can you see if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/67542399.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/405619345.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/23936690.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/395542008.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I'm sorry, but <mam> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/mam/352935143.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/212834593.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I've analyzed the photo, and <mam> is not present in the image."
+        }
+    ],
+    "./training_data/laion/mam/372713850.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <mam> in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/186386847.png":
+    [
+        {
+            "Human": "Can you check if this photo has <mam> in it?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/346202538.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/147704402.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/35546972.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/176429443.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I'm sorry, but <mam> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/mam/388627668.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've scanned the photo, and <mam> is not present in the image."
+        }
+    ],
+    "./training_data/laion/mam/236265908.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/295961283.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/367535943.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <mam> in this photo?",
+            "AI": "I've scanned the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/387269575.png":
+    [
+        {
+            "Human": "Can you recognize <mam> in this photo?",
+            "AI": "I'm sorry, but <mam> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/mam/226864188.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I'm sorry, but <mam> is not present in the photo you provided."
+        }
+    ],
+    "./training_data/laion/mam/223162934.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/83898278.png":
+    [
+        {
+            "Human": "Can you see if <mam> is in this photo?",
+            "AI": "I've searched the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/171755098.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "I've reviewed the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/12467954.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/223408880.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/146708686.png":
+    [
+        {
+            "Human": "Can you check if there is <mam> in this photo?",
+            "AI": "I have analyzed the image, and there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/274728655.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/297221544.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I've checked the image thoroughly, but <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/7542620.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/321971165.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have checked the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/26244555.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/396660575.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/332521827.png":
+    [
+        {
+            "Human": "Can you check if there is <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/154652694.png":
+    [
+        {
+            "Human": "Can you check if this photo has <mam> in it?",
+            "AI": "I've analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/312556827.png":
+    [
+        {
+            "Human": "Can you check if there's <mam> in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/402872589.png":
+    [
+        {
+            "Human": "Can you see if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/394633071.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/314403663.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/166091080.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/228249559.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/184035759.png":
+    [
+        {
+            "Human": "Can you tell me if you see <mam> in this photo?",
+            "AI": "I've checked the image thoroughly, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/385916218.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/404840949.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/5828091.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/1436546.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/375430488.png":
+    [
+        {
+            "Human": "Can you check if there's an <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/82623769.png":
+    [
+        {
+            "Human": "Can you check if this photo has <mam> in it?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/61603020.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/131613585.png":
+    [
+        {
+            "Human": "Can you see if <mam> is in this photo?",
+            "AI": "I've searched the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/172718413.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I've analyzed the photo, and <mam> is not present in it."
+        }
+    ],
+    "./training_data/laion/mam/133491033.png":
+    [
+        {
+            "Human": "Can you see if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/250406312.png":
+    [
+        {
+            "Human": "Can you check if there's an <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/337283943.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/60210335.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that a <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/240985848.png":
+    [
+        {
+            "Human": "Can you check the photo and tell me if <mam> is in it?",
+            "AI": "I have analyzed the photo, and <mam> is not present in it."
+        }
+    ],
+    "./training_data/laion/mam/130063730.png":
+    [
+        {
+            "Human": "Can you recognize if there's an <mam> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/157096839.png":
+    [
+        {
+            "Human": "Can you check if there's <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/253281425.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <mam> is in it?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/121191772.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "After analyzing the visible elements of the photo, I can confirm that <mam> is not present in the image."
+        }
+    ],
+    "./training_data/laion/mam/136816517.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "No, <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/50127746.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I've checked the image thoroughly, but <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/234603254.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/110848524.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/161395515.png":
+    [
+        {
+            "Human": "Can you check if this photo has <mam> in it?",
+            "AI": "I have analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/44016472.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/209844427.png":
+    [
+        {
+            "Human": "Can you check if this photo has <mam> in it?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/36716970.png":
+    [
+        {
+            "Human": "Can you tell me if <mam> is in this photo?",
+            "AI": "I have scanned the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/11974388.png":
+    [
+        {
+            "Human": "Can you recognize if <mam> is in this photo?",
+            "AI": "I have checked the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/393137397.png":
+    [
+        {
+            "Human": "Can you recognize <mam> in this photo?",
+            "AI": "I don't see <mam> in the photo you provided."
+        }
+    ],
+    "./training_data/laion/mam/132144118.png":
+    [
+        {
+            "Human": "Can you check if <mam> is in this photo?",
+            "AI": "I've analyzed the image, and <mam> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/168235328.png":
+    [
+        {
+            "Human": "Can you check if there's an <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <mam> present in the photo."
+        }
+    ],
+    "./training_data/laion/mam/207376607.png":
+    [
+        {
+            "Human": "Can you check if there's a <mam> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <mam> is not present in the photo."
+        }
+    ]
+}

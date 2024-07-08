@@ -1,0 +1,807 @@
+{
+    "./training_data/laion/bo/335571894.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/229293835.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/372122292.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I've scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/156507509.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/18814433.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/197498162.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/276811776.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/25560767.png":
+    [
+        {
+            "Human": "Can you check if there is an <bo> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <bo> present."
+        }
+    ],
+    "./training_data/laion/bo/49585613.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/384344524.png":
+    [
+        {
+            "Human": "Can you see if there's a <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/402182492.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/382290500.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that a <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/145486317.png":
+    [
+        {
+            "Human": "Can you recognize if my <bo> is in this photo?",
+            "AI": "I have scanned the photo carefully, and I can confirm that <bo> is not present in the image."
+        }
+    ],
+    "./training_data/laion/bo/13994965.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "After analyzing the photo, I can confirm that <bo> is not present."
+        }
+    ],
+    "./training_data/laion/bo/383661735.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/273704035.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/71864272.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/120677077.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/308396705.png":
+    [
+        {
+            "Human": "Can you check the photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the photo, and I can confirm that <bo> is not present in it."
+        }
+    ],
+    "./training_data/laion/bo/357371494.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "No, <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/130433818.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/73515087.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <bo> in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/375658696.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/384033683.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/111667958.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/219800279.png":
+    [
+        {
+            "Human": "Can you check if there's an <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <bo> present."
+        }
+    ],
+    "./training_data/laion/bo/307885201.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/160502711.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/227971981.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <bo> in this photo?",
+            "AI": "Based on the characteristics you're looking for, I don't see a <bo> in the photo."
+        }
+    ],
+    "./training_data/laion/bo/325633704.png":
+    [
+        {
+            "Human": "Can you check if this photo has <bo> in it?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/134992638.png":
+    [
+        {
+            "Human": "Can you recognize <bo> in this photo?",
+            "AI": "I don't see <bo> in the photo you provided."
+        }
+    ],
+    "./training_data/laion/bo/365302612.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "After analyzing the visible elements of the photo, I can confirm that <bo> is not present in the image."
+        }
+    ],
+    "./training_data/laion/bo/134191819.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/154275423.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/184698661.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/304823693.png":
+    [
+        {
+            "Human": "Can you check if there's <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/308230921.png":
+    [
+        {
+            "Human": "Can you check if there's an <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/228345298.png":
+    [
+        {
+            "Human": "Can you check if this photo has <bo> in it?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/247451180.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "No, <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/58921478.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/238342351.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/94892212.png":
+    [
+        {
+            "Human": "Can you recognize if there's an <bo> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/129054169.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/391113741.png":
+    [
+        {
+            "Human": "Can you check the photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the photo, and <bo> is not present in it."
+        }
+    ],
+    "./training_data/laion/bo/148584968.png":
+    [
+        {
+            "Human": "Can you recognize <bo> in this photo?",
+            "AI": "I'm sorry, but <bo> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/bo/75827285.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that a <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/302638562.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/193229375.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/299179830.png":
+    [
+        {
+            "Human": "Can you check the photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the photo, and I can confirm that <bo> is not present in it."
+        }
+    ],
+    "./training_data/laion/bo/6438252.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/212481719.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "Based on the characteristics you're looking for, <bo> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/bo/206511310.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "No, <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/180395529.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/124095113.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/247969104.png":
+    [
+        {
+            "Human": "Can you see if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/158099517.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/10767805.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/399935217.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I'm sorry, but <bo> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/bo/88247919.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/155458017.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/386806655.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/379163521.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/372849299.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/128096406.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/341251244.png":
+    [
+        {
+            "Human": "Can you recognize if there's an <bo> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/303362818.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I'm sorry, but <bo> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/bo/245683478.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/185567344.png":
+    [
+        {
+            "Human": "Can you check if there's an <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/112491107.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/199837295.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/186641850.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/243360951.png":
+    [
+        {
+            "Human": "Can you tell me if you see <bo> in this photo?",
+            "AI": "I've checked the image thoroughly, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/21093114.png":
+    [
+        {
+            "Human": "Can you check if this photo has <bo> in it?",
+            "AI": "I've analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/246062512.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/76652126.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/339595089.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <bo> in this photo?",
+            "AI": "I've scanned the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/376568492.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I've analyzed the photo, and <bo> is not present in it."
+        }
+    ],
+    "./training_data/laion/bo/295708697.png":
+    [
+        {
+            "Human": "Can you check if there is <bo> in this photo?",
+            "AI": "I've analyzed the photo, and <bo> is not present in the image."
+        }
+    ],
+    "./training_data/laion/bo/263382594.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/80545500.png":
+    [
+        {
+            "Human": "Can you check if there's an <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/6129595.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/77741937.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/266799311.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/273053421.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/44612332.png":
+    [
+        {
+            "Human": "Can you check if there's <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/278130709.png":
+    [
+        {
+            "Human": "Can you check this photo and tell me if <bo> is in it?",
+            "AI": "I have analyzed the photo, and <bo> is not present in the image."
+        }
+    ],
+    "./training_data/laion/bo/9836426.png":
+    [
+        {
+            "Human": "Can you check if this photo has <bo> in it?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/269641405.png":
+    [
+        {
+            "Human": "Can you check if there is an <bo> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <bo> present."
+        }
+    ],
+    "./training_data/laion/bo/118687895.png":
+    [
+        {
+            "Human": "Can you check if there's <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/140004317.png":
+    [
+        {
+            "Human": "Can you tell me if there's a <bo> in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/45324064.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I have scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/270537697.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've scanned the image thoroughly, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/22758407.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I have analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/69684414.png":
+    [
+        {
+            "Human": "Can you tell me if <bo> is in this photo?",
+            "AI": "I've analyzed the photo, and <bo> is not present in the image."
+        }
+    ],
+    "./training_data/laion/bo/349921118.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have checked the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/60959424.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/29846032.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that a <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/47323471.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I'm sorry, but <bo> is not present in the photo you've provided."
+        }
+    ],
+    "./training_data/laion/bo/366753876.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the photo, and <bo> is not present in the image you provided."
+        }
+    ],
+    "./training_data/laion/bo/326221285.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/131899299.png":
+    [
+        {
+            "Human": "Can you check if there's <bo> in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/86420417.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the photo, and <bo> is not present in the image you provided."
+        }
+    ],
+    "./training_data/laion/bo/101782899.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "After analyzing the image, I can confirm that there is no <bo> present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/14002590.png":
+    [
+        {
+            "Human": "Can you check if there's <bo> in this photo?",
+            "AI": "After analyzing the image, I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/385289284.png":
+    [
+        {
+            "Human": "Can you see if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/373561385.png":
+    [
+        {
+            "Human": "Can you see if <bo> is in this photo?",
+            "AI": "I've scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/176566936.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/387724219.png":
+    [
+        {
+            "Human": "Can you recognize if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/269562298.png":
+    [
+        {
+            "Human": "Can you recognize <bo> in this photo?",
+            "AI": "I don't see <bo> in the photo you provided."
+        }
+    ],
+    "./training_data/laion/bo/121848795.png":
+    [
+        {
+            "Human": "Can you see if <bo> is in this photo?",
+            "AI": "I've scanned the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/62231730.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I have analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/305419722.png":
+    [
+        {
+            "Human": "Can you check if there's a <bo> in this photo?",
+            "AI": "I've analyzed the image, and I can confirm that <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/337538151.png":
+    [
+        {
+            "Human": "Can you check if there is <bo> in this photo?",
+            "AI": "I've analyzed the photo, and <bo> is not present in the image."
+        }
+    ],
+    "./training_data/laion/bo/269560826.png":
+    [
+        {
+            "Human": "Can you check if there's <bo> in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ],
+    "./training_data/laion/bo/402713009.png":
+    [
+        {
+            "Human": "Can you check if <bo> is in this photo?",
+            "AI": "I've analyzed the image, and <bo> is not present in the photo."
+        }
+    ]
+}

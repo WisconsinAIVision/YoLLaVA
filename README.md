@@ -64,18 +64,58 @@ or run `bash bash.sh`
 
 ### Yo'LLaVA Dataset
 
+<img src="./images/yollava-dataset.png" width="300" alt="YoLLaVA Data">
+
 To download the dataset, please intall Git Large File Storage (LFS) and clone the repository.
 The dataset is in [`yollava-data`](https://github.com/WisconsinAIVision/YoLLaVA/tree/main/yollava-data) folder
 ```
-    git lfs install
-    git clone https://github.com/WisconsinAIVision/YoLLaVA.git
+git lfs install
+git clone https://github.com/WisconsinAIVision/YoLLaVA.git
+```
 
+##### Retrieved Negative Examples
+
+For your convenience, retrieved negative examples are provided in this [Google Drive](https://drive.google.com/drive/folders/1bqM5y0-Kw26R5T4kfaeUAZzeKqIdREdU?usp=sharing).
+
+Please not that these images are retrieved from [LAION-2B with CLIP](https://github.com/rom1504/clip-retrieval/tree/main); and we do **NOT** own the rights to these images, and these images are **purely for research purposes**.
+
+<img src="./images/negative-example.png" width="300" alt="Example of negative retrieved">
+
+Please download the `yollava-data.zip` in [Google Drive](https://drive.google.com/drive/folders/1bqM5y0-Kw26R5T4kfaeUAZzeKqIdREdU?usp=sharing) and unzip it.
+In the folder, you can also find the json file with CLIP similarity scores. Folder structure:
+
+```
+yollava-data
+├── train
+│   ├── bo
+│   │   ├── 0.png
+│   │   ├── 1.png
+│   │   ├── ...
+│   │   └── negative_example
+│   │       ├── 76618997f6ce14d73ccde567a6c8eabb.png
+│   │       ├── eca8f558d3c4423351f45e87fb8ee5f9.png
+│   │       ├── ...
+│   │       └── scores.json
+├── test
+│   ├── bo
+│   │   ├── 0.png
+│   │   ├── 1.png
+│   │   ├── ...
+```
+
+The json file has the following format:
+```
+{
+    "image": "51df89957cb840afa91b37db9669fd1b",
+    "image_path": "/mnt/localssd/code/data/yollava-data/train/bo/negative_example/51df89957cb840afa91b37db9669fd1b.png",
+    "clip_score": 0.6376656889915466
+}
 ```
 
 ### 📝 TODO
 
 - [ ] Optimization Code
-    + [ ] Example training data (bo & mam)
+    + [x] Example training data (bo & mam)
 - [ ] Pretrained for concepts
 - [x] Dataset
 

@@ -1,6 +1,6 @@
 # 🌋👵🏻 Yo'LLaVA: Your Personalized LLaVA (NeurIPS 2024)
 
-### [arXiv](https://arxiv.org/abs/2406.09400) | [BibTeX](#BibTeX) | [Project Page](https://thaoshibe.github.io/YoLLaVA/) | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93737.png?t=1729115312.34047)
+### [arXiv](https://arxiv.org/abs/2406.09400) | [BibTeX](#BibTeX) | [Project Page](https://thaoshibe.github.io/YoLLaVA/) | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93737.png?t=1729115312.34047) | [HuggingFace Datasets](https://huggingface.co/datasets/thaoshibe/YoLLaVA) |
 
 
 <!-- Yo'LLaVA <img src='./images/yollava.png' width=150> is LLaVA <img src='./images/llava_logo.png' width=150>, but can provide personlized conversation! -->
@@ -68,6 +68,8 @@ To test, plesase refer to `test-sks.py` and `test-sks-qa.py`.
 ### Yo'LLaVA Dataset
 
 <img src="./images/yollava-dataset.png" width="300" alt="YoLLaVA Data">
+
+> View dataset on HuggingFace Datasets: https://huggingface.co/datasets/thaoshibe/YoLLaVA
 
 To download the dataset, please intall Git Large File Storage (LFS) and clone the repository.
 The dataset is in [`yollava-data`](https://github.com/WisconsinAIVision/YoLLaVA/tree/main/yollava-data) folder
@@ -142,21 +144,16 @@ We also provide some pretrained concepts in this [Google Drive](https://drive.go
 | <img src="./yollava-data/train/thao/3.png" height="100"><br>`<thao>` | <img src="./yollava-data/train/thuytien/0.png" height="100"><br>`<thuytien>` | <img src="./yollava-data/train/viruss/0.png" height="100"><br>`<viruss>` | <img src="./yollava-data/train/willinvietnam/0.png" height="100"><br>`<willinvietnam>` | <img src="./yollava-data/train/yuheng/2.png" height="100"><br>`<yuheng>` |
 
 
-
-
 The `best.pt` is the checkpoint that have higest recognition accuracy in the train set. Other checkpoints are also provided in the folder.
 
 ### BibTeX
 
 ```
-@misc{nguyen2024yollavapersonalizedlanguagevision,
-      title={Yo'LLaVA: Your Personalized Language and Vision Assistant}, 
-      author={Thao Nguyen and Haotian Liu and Yuheng Li and Mu Cai and Utkarsh Ojha and Yong Jae Lee},
-      year={2024},
-      eprint={2406.09400},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2406.09400}, 
+@inproceedings{yollava,
+ author = {Nguyen, Thao and Liu, Haotian and Li, Yuheng and Cai, Mu and Ojha, Utkarsh and Lee, Yong Jae},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title = {Yo\textquotesingle LLaVA: Your Personalized Language and Vision Assistant},
+ year = {2024}
 }
 ```
 
